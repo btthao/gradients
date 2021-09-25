@@ -1,0 +1,13 @@
+query GetGradients($getGradientsInput: GetGradientsInput) {
+  getGradients(input: $getGradientsInput) {
+    results {
+      _id
+      name
+      colors
+      direction
+      stops
+      tags
+    }
+    next
+  }
+}

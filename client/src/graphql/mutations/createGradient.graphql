@@ -1,0 +1,6 @@
+mutation CreateGradient($createGradientInput: GradientInput) {
+  createGradient(input: $createGradientInput) {
+    completed
+    error
+  }
+}
