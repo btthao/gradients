@@ -2,7 +2,8 @@
 
 ### Features:
 
-Create, experiment and add gradients to database.
+- Create, experiment, add gradients to database
+- View and filter
 
 ### Built with:
 
