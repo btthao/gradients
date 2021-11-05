@@ -13,5 +13,4 @@
 - React
 - TypeScript
 - Next.js
-- Node.js
 - TailwindCSS
