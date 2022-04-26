@@ -3,7 +3,7 @@
 ### Features:
 
 - Create, experiment, add gradients to database
-- View and filter
+- Pagination and filter
 
 ### Built with:
 
